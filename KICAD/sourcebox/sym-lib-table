@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name jamma_connector)(type Legacy)(uri ${KIPRJMOD}/jamma_connector.lib)(options "")(descr ""))
+)
